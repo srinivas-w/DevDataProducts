@@ -7,7 +7,7 @@ require(data.table)
 library(dplyr)
 library(DT)
 shinyUI(
-navbarPage("LEGO Set Visualizer",
+navbarPage("SRINIVAS  Set Visualizer",
 # multi-page user-interface that includes a navigation bar.
 tabPanel("Explore the Data",
 sidebarPanel(
