@@ -4,4 +4,4 @@ The dataset is from Rebrickable.com that contains the basic information of each 
 Data Source: http://rebrickable.com/downloads
 Note: Since I didn't use the API to collect data, the current data might not be 100% accurate.
 
-About author: SRINIVAS REDDY T
+About author: SRINIVAS REDDY T.
